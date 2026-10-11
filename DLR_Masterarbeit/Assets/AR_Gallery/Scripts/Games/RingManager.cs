@@ -169,15 +169,6 @@ public class RingManager : MonoBehaviour
     // │    Vollständig KI-generiert.
     // ╰───────────────────────────────── ♡
 
-    private IEnumerator FlashMoonCircles()
-    {
-        // Bisheriger Code bleibt unverändert.
-    }
-
-    private IEnumerator MissAnimation()
-    {
-        // Bisheriger Code bleibt unverändert.
-    }
 
     private IEnumerator FlashMoonCircles()
     {
