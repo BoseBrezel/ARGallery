@@ -1,0 +1,5 @@
+/Users/lisabrezel/Desktop/MasterarbeitFinal/masterarbeit-dlr/DLR_Masterarbeit/.utmp/RelWithDebInfo/3t6l4w1x/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/lisabrezel/Desktop/MasterarbeitFinal/masterarbeit-dlr/DLR_Masterarbeit/.utmp/RelWithDebInfo/3t6l4w1x/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/lisabrezel/Desktop/MasterarbeitFinal/masterarbeit-dlr/DLR_Masterarbeit/.utmp/RelWithDebInfo/3t6l4w1x/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/lisabrezel/Desktop/MasterarbeitFinal/masterarbeit-dlr/DLR_Masterarbeit/.utmp/RelWithDebInfo/3t6l4w1x/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/lisabrezel/Desktop/MasterarbeitFinal/masterarbeit-dlr/DLR_Masterarbeit/.utmp/RelWithDebInfo/3t6l4w1x/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

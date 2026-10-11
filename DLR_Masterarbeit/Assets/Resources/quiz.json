@@ -1,0 +1,255 @@
+{
+    "AlbertEinstein": {
+        "question": "Wofür ist Albert Einstein besonders bekannt?",
+        "answerRight": "Für seine Theorien über Raum und Zeit",
+        "answer1": "Für seine Entdeckungen über Dinosaurier",
+        "answer2": "Für seine Erfindungen von Flugzeugen",
+        "answer3": "Für seine Forschung über Vulkane"
+    },
+
+    "AlbertEinstein_EndQuiz": {
+        "question": "Für welche Formel ist Albert Einstein besonders berühmt?",
+        "answerRight": "E = mc²",
+        "answer1": "F = m · a",
+        "answer2": "a² + b² = c²",
+        "answer3": "V = s · t"
+    },
+
+    "SpaceShuttle": {
+        "question": "Wohin flog das Space Shuttle unter anderem?",
+        "answerRight": "Zur Internationalen Raumstation (ISS)",
+        "answer1": "Zum Mars",
+        "answer2": "Zum Mond",
+        "answer3": "Zur Sonne"
+    },
+
+    "SpaceShuttle_EndQuiz": {
+        "question": "Wie viele Missionen flog die Space-Shuttle-Flotte der NASA insgesamt?",
+        "answerRight": "135",
+        "answer1": "35",
+        "answer2": "75",
+        "answer3": "235"
+    },
+
+    "WernerVonSiemens": {
+        "question": "Wofür gilt Werner von Siemens als Begründer?",
+        "answerRight": "Der modernen Elektrotechnik",
+        "answer1": "Der modernen Raumfahrt",
+        "answer2": "Der modernen Luftfahrt",
+        "answer3": "Der modernen Astronomie"
+    },
+
+    "WernerVonSiemens_EndQuiz": {
+        "question": "Was gründete Werner von Siemens 1847 zusammen mit Johann Georg Halske?",
+        "answerRight": "Die Telegraphen-Bau-Anstalt von Siemens & Halske",
+        "answer1": "Die NASA",
+        "answer2": "Die ESA",
+        "answer3": "Die Daimler-Motoren-Gesellschaft"
+    },
+
+    "AmaliaMaryEarhart": {
+        "question": "Was gelang Amelia Earhart 1932?",
+        "answerRight": "Sie überquerte als erste Frau allein den Atlantik.",
+        "answer1": "Sie flog als erste Frau zum Mond.",
+        "answer2": "Sie umrundete als erste Frau die Erde am Äquator.",
+        "answer3": "Sie baute das erste Flugzeug."
+    },
+
+    "AmaliaMaryEarhart_EndQuiz": {
+        "question": "Was war Amelia Earhart?",
+        "answerRight": "Eine berühmte Flugpionierin",
+        "answer1": "Eine Astronautin",
+        "answer2": "Eine Erfinderin von Autos",
+        "answer3": "Eine Meeresforscherin"
+    },
+
+    "Buzz": {
+        "question": "Wann betrat Buzz Aldrin als zweiter Mensch den Mond?",
+        "answerRight": "1969",
+        "answer1": "1959",
+        "answer2": "1961",
+        "answer3": "1975"
+    },
+
+    "Buzz_EndQuiz": {
+        "question": "Im Rahmen welcher Mission betrat Buzz Aldrin den Mond?",
+        "answerRight": "Apollo 11",
+        "answer1": "Mars Express",
+        "answer2": "Space Shuttle Enterprise",
+        "answer3": "JUICE"
+    },
+
+    "CarlBenz": {
+        "question": "Was stellte Carl Friedrich Benz 1885 vor?",
+        "answerRight": "Das erste praxistaugliche Automobil",
+        "answer1": "Das erste Flugzeug",
+        "answer2": "Das erste Elektroauto",
+        "answer3": "Das erste Motorrad"
+    },
+
+    "CarlBenz_EndQuiz": {
+        "question": "Wie hieß das Automobil, das Carl Benz 1885 vorstellte?",
+        "answerRight": "Benz Patent-Motorwagen Nummer 1",
+        "answer1": "Benz Rennwagen Nummer 1",
+        "answer2": "Benz Elektro-Wagen",
+        "answer3": "Benz Automobil Nummer 5"
+    },
+
+    "CaecilleBenz": {
+        "question": "Was unternahm Cäcilie Bertha Benz am 5. August 1888?",
+        "answerRight": "Sie startete die erste Fernfahrt mit einem Automobil.",
+        "answer1": "Sie flog über den Atlantik.",
+        "answer2": "Sie erfand den Automotor.",
+        "answer3": "Sie fuhr das erste Elektroauto."
+    },
+
+    "CaecilleBenz_EndQuiz": {
+        "question": "Wobei half Cäcilie Bertha Benz ihrem Mann Carl Benz?",
+        "answerRight": "Bei der Erfindung des Benz-Patent-Motorwagens",
+        "answer1": "Bei der Entwicklung eines Flugzeugs",
+        "answer2": "Bei der Entwicklung eines Teleskops",
+        "answer3": "Bei der Erforschung des Mars"
+    },
+
+    "Derwittzer": {
+        "question": "Wer entwickelte den Derwitzer Apparat?",
+        "answerRight": "Otto Lilienthal",
+        "answer1": "Albert Einstein",
+        "answer2": "Isaac Newton",
+        "answer3": "Werner von Siemens"
+    },
+
+    "Derwittzer_EndQuiz": {
+        "question": "Wie lang waren die gesteuerten Gleitflüge mit dem Derwitzer Apparat höchstens?",
+        "answerRight": "25 Meter",
+        "answer1": "10 Meter",
+        "answer2": "15 Meter",
+        "answer3": "50 Meter"
+    },
+
+    "GalileoGalilei": {
+        "question": "Wie heißt der größte Mond des Jupiters?",
+        "answerRight": "Ganymed",
+        "answer1": "Callisto",
+        "answer2": "Europa",
+        "answer3": "Io"
+    },
+    "galileoMonde_EndQuiz": {
+        "question": "Was soll die Mission JUICE unter anderem untersuchen?",
+        "answerRight": "Ob unter den Eiskrusten einiger Jupitermonde Voraussetzungen für Leben vorhanden sein könnten",
+        "answer1": "Ob der Jupiter bewohnt ist",
+        "answer2": "Ob der Mars einen Ring besitzt",
+        "answer3": "Ob die Erde einen weiteren Mond hat"
+    },
+
+    "galileoMonde": {
+        "question": "Wie heißen die vier Monde des Jupiters?",
+        "answerRight": "Callisto, Ganymed, Europa und Io",
+        "answer1": "Titan, Europa, Mars und Io",
+        "answer2": "Mond, Venus, Ganymed und Mars",
+        "answer3": "Europa, Titan, Kallisto und Venus"
+    },
+
+    "GalileoGalilei_EndQuiz": {
+        "question": "Welcher der folgenden Monde ist KEIN Jupiter Mond?",
+        "answerRight": "Titan",
+        "answer1": "Ganymed",
+        "answer2": "IO",
+        "answer3": "Callisto"
+    },
+    "ISS": {
+        "question": "In welcher Höhe umkreist die ISS ungefähr die Erde?",
+        "answerRight": "400 Kilometer",
+        "answer1": "40 Kilometer",
+        "answer2": "100 Kilometer",
+        "answer3": "4.000 Kilometer"
+    },
+
+    "ISS_EndQuiz": {
+        "question": "Wie lange braucht die ISS ungefähr für einen Umlauf um die Erde?",
+        "answerRight": "93 Minuten",
+        "answer1": "24 Stunden",
+        "answer2": "12 Stunden",
+        "answer3": "10 Minuten"
+    },
+
+    "LaJamaisContente_EndQuiz": {
+        "question": "Welche Geschwindigkeitsmarke durchbrach La Jamais Contente 1899?",
+        "answerRight": "100 km/h",
+        "answer1": "50 km/h",
+        "answer2": "75 km/h",
+        "answer3": "200 km/h"
+    },
+
+    "Hamilton": {
+        "question": "Wie hoch ist der Papierstapel?",
+        "answerRight": "Zwischen 1,50 m und 1,60 m",
+        "answer1": "Zwischen 1,70 m und 1,80 m",
+        "answer2": "Zwischen 1,30 m und 1,40 m",
+        "answer3": "Zwischen 1 m und 1,10 m"
+    },
+
+    "Hamilton_EndQuiz": {
+        "question": "Was ermöglichte das Design von Margaret Hamiltons Software?",
+        "answerRight": "Es verhinderte den Abbruch der Mondlandung von Apollo 11.",
+        "answer1": "Es ermöglichte die Landung auf dem Mars.",
+        "answer2": "Es machte die ISS größer.",
+        "answer3": "Es ermöglichte den ersten Flug über den Atlantik."
+    },
+
+    "MarieCurie": {
+        "question": "Welches der 4 ausgestellten Dinge hat die höchste Radioaktivität?",
+        "answerRight": "Uran",
+        "answer1": "Katze Kitty",
+        "answer2": "Granit",
+        "answer3": "Banane"
+    },
+
+    "MarieCurie_EndQuiz": {
+        "question": "Welche beiden chemischen Elemente entdeckte Marie Curie?",
+        "answerRight": "Polonium und Radium",
+        "answer1": "Eisen und Gold",
+        "answer2": "Sauerstoff und Wasserstoff",
+        "answer3": "Helium und Kohlenstoff"
+    },
+
+    "LiseMeitner_EndQuiz": {
+        "question": "Was erforschte Lise Meitner gemeinsam mit Otto Hahn?",
+        "answerRight": "Radioaktivität und radioaktive Isotope",
+        "answer1": "Flugzeuge und Raketen",
+        "answer2": "Automobile und Motoren",
+        "answer3": "Planeten und Sterne"
+    },
+
+    "LiseMeitner": {
+        "question": "Was war Lise Meitner 1926?",
+        "answerRight": "Die erste Professorin für Physik in Deutschland",
+        "answer1": "Die erste Frau auf dem Mond",
+        "answer2": "Die erste Nobelpreisträgerin für Chemie",
+        "answer3": "Die erste Astronautin Deutschlands"
+    },
+
+    "MarsExpress_EndQuiz": {
+        "question": "Wofür wird die HRSC-Kamera an Bord von Mars Express unter anderem eingesetzt?",
+        "answerRight": "Um dreidimensionale Karten des Mars zu erstellen",
+        "answer1": "Um die Erde zu fotografieren",
+        "answer2": "Um Raketen zu steuern",
+        "answer3": "Um die Temperatur der Sonne zu messen"
+    },
+
+    "Otto_EndQuiz": {
+        "question": "Wofür ist Otto Lilienthal besonders bekannt?",
+        "answerRight": "Für erfolgreiche und wiederholbare Gleitflüge",
+        "answer1": "Für die Entwicklung des ersten Computers",
+        "answer2": "Für die Entdeckung des Radiums",
+        "answer3": "Für die Erfindung des Telefons"
+    },
+
+    "IsaacNewton_EndQuiz": {
+        "question": "Welches Obst fiel Newton auf den Kopf?",
+        "answerRight": "Ein Apfel",
+        "answer1": "Eine Birne",
+        "answer2": "Eine Banane",
+        "answer3": "Eine Pflaume"
+    }
+}

@@ -1,0 +1,2 @@
+/Users/lisabrezel/Desktop/MasterarbeitFinal/masterarbeit-dlr/DLR_Masterarbeit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt
+/Users/lisabrezel/Desktop/MasterarbeitFinal/masterarbeit-dlr/DLR_Masterarbeit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt

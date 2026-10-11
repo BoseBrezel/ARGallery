@@ -1,0 +1,2 @@
+D:\Masterarbeit\masterarbeit-dlr\masterarbeit-dlr\DLR_Masterarbeit\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\Masterarbeit\masterarbeit-dlr\masterarbeit-dlr\DLR_Masterarbeit\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1989929537142692932
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2518527303336901032}
+  - component: {fileID: 1859139056710812798}
+  - component: {fileID: 9135663401816329310}
+  m_Layer: 5
+  m_Name: QuizUi Variant
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &2518527303336901032
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1989929537142692932}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -2.21561}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 335.00003, y: -74}
+  m_SizeDelta: {x: 604.2551, y: 883.7515}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &1859139056710812798
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1989929537142692932}
+  m_CullTransparentMesh: 1
+--- !u!114 &9135663401816329310
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1989929537142692932}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2033e47b8fc52d4cbc2300768556c86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Quiz
+  quizName: 
+  quizPanel: {fileID: 0}
+  question: {fileID: 0}
+  rightPanel: {fileID: 0}
+  wrongPanel: {fileID: 0}
+  answerA: {fileID: 0}
+  hoverA: {fileID: 0}
+  falseA: {fileID: 0}
+  trueA: {fileID: 0}
+  answerButtonA: {fileID: 0}
+  answerB: {fileID: 0}
+  hoverB: {fileID: 0}
+  falseB: {fileID: 0}
+  trueB: {fileID: 0}
+  answerButtonB: {fileID: 0}
+  answerC: {fileID: 0}
+  hoverC: {fileID: 0}
+  falseC: {fileID: 0}
+  trueC: {fileID: 0}
+  answerButtonC: {fileID: 0}
+  answerD: {fileID: 0}
+  hoverD: {fileID: 0}
+  falseD: {fileID: 0}
+  trueD: {fileID: 0}
+  answerButtonD: {fileID: 0}

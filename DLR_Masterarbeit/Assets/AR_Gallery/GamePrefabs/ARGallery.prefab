@@ -1,0 +1,233 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8305078341444114808
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4808457574636613429}
+  - component: {fileID: 7708967782552723364}
+  - component: {fileID: 3263127831074803234}
+  - component: {fileID: 1090549600209999402}
+  - component: {fileID: 3530755176018136451}
+  - component: {fileID: 3105338298293675189}
+  - component: {fileID: 1089265761267879877}
+  - component: {fileID: 2786508831496463144}
+  m_Layer: 0
+  m_Name: ARGallery
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &4808457574636613429
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8305078341444114808}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &7708967782552723364
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8305078341444114808}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65673944a8244a147b73da1fd6973e26, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RecognitionHandler
+  bannerPrefabs:
+  - {fileID: 8303817233338117545, guid: daa0a5d18392b064187bc3e4909409dc, type: 3}
+  - {fileID: 7817814940297189302, guid: 756c74f85a28261499ea0e5cf4c28c47, type: 3}
+  - {fileID: 1163128269927795813, guid: 80a9bc14ee9aa444c99f131a2f2f7e59, type: 3}
+  - {fileID: 2553246936076404210, guid: 05d7d455df5d67b4cae1949b5338b272, type: 3}
+  - {fileID: 7180713321860621105, guid: d8f12ce0abab95a4584d1785aca1b3a2, type: 3}
+  - {fileID: 8709103131209300006, guid: 62763daec4f90584b8b7f2b6b8f545c1, type: 3}
+  - {fileID: 6492868127068810950, guid: 4b515a978b6ae5b4badb1b1d56bd56ac, type: 3}
+  - {fileID: 7839022475749309473, guid: 74d8e106cbbdf82429c6e551d34e665d, type: 3}
+  - {fileID: 2781295402697352439, guid: 84f0976077adbc34ebd6f6a132c3f2c3, type: 3}
+  - {fileID: 6467778160962942616, guid: e1a43ffdbb2967645986b89ffa463abe, type: 3}
+  - {fileID: 7455910095580865644, guid: bcdf6b11b9e384d40af8e25c00e71a52, type: 3}
+  - {fileID: 8718880653627386828, guid: 3acde9b8522cf284b85ae291b01b137d, type: 3}
+  - {fileID: 1983418670740846889, guid: d9d383949808bba4faf7b4ae9fc8bb84, type: 3}
+  - {fileID: 765207480820965967, guid: 9e37ecc55f20b4942bacfef4344de2f2, type: 3}
+  - {fileID: 7012938452619510106, guid: c2653e622281353458c73627731cd63b, type: 3}
+  - {fileID: 3798004165914292545, guid: e320e3dce1a468943b8ad93023e71ecd, type: 3}
+  - {fileID: 5910437415782318411, guid: d82106941d0b3b54eb67b2c45a1157a1, type: 3}
+  - {fileID: 6789832897780833449, guid: 0c509efb73b223c49b977bd542f85b4a, type: 3}
+  x: 0
+  y: 0
+  z: 0
+  size2: 0.001
+  inputX: {fileID: 0}
+  inputY: {fileID: 0}
+  inputZ: {fileID: 0}
+  inputSize: {fileID: 0}
+  blocked: 0
+  imageManager: {fileID: 1090549600209999402}
+  spawnArea: {fileID: 0}
+--- !u!114 &3263127831074803234
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8305078341444114808}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0cb9aa70a22847b5925ee5f067c10a9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.XR.CoreUtils::Unity.XR.CoreUtils.XROrigin
+  m_Camera: {fileID: 0}
+  m_OriginBaseGameObject: {fileID: 8305078341444114808}
+  m_CameraFloorOffsetObject: {fileID: 0}
+  m_RequestedTrackingOriginMode: 0
+  m_CameraYOffset: 1.1176
+--- !u!114 &1090549600209999402
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8305078341444114808}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dea56a9eaadd1c439095de4f9a371cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.XR.ARFoundation::UnityEngine.XR.ARFoundation.ARTrackedImageManager
+  <trackablesChanged>k__BackingField:
+    m_PersistentCalls:
+      m_Calls: []
+  m_SerializedLibrary: {fileID: 11400000, guid: 1b84d49ab406804429d2dee35d6d7e1d, type: 2}
+  m_MaxNumberOfMovingImages: 0
+  m_TrackedImagePrefab: {fileID: 0}
+--- !u!114 &3530755176018136451
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8305078341444114808}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a912889ec661d0f41ba95c70278c7d28, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GameHandling
+  appController: {fileID: 1089265761267879877}
+  quizPrefab: {fileID: 287065178126183660, guid: d01874c42d895f94e80bc5016cdd6c27, type: 3}
+  quizArea: {fileID: 0}
+  gameLogic: {fileID: 3105338298293675189}
+  banners: []
+  badges:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+--- !u!114 &3105338298293675189
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8305078341444114808}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f18c773911698074aad00c3029c7882d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GameLogic
+  gameHandler: {fileID: 3530755176018136451}
+  imageManager: {fileID: 1090549600209999402}
+  gameContainer: {fileID: 0}
+  gamePrefabs: []
+  redoButton: {fileID: 0}
+  closeButton: {fileID: 0}
+  galileoGameObject: {fileID: 0}
+  ottoPrefab: {fileID: 9208275108162806914, guid: ff5d4799bde1e0048b50c1c796c4021e, type: 3}
+  contentePrefab: {fileID: 2849097105614864029, guid: 2b8531edf8da02b458f337b79874aaca, type: 3}
+  marsExpressPrefab: {fileID: 7491335910323979, guid: 31555ce06ce94e44990ebb00a1429dec, type: 3}
+  newtonPrefab: {fileID: 5756486681630270612, guid: 0cf3881f42d4f3e42a4cfe71f0922410, type: 3}
+  pilePaper: {fileID: 8594240950588325975, guid: 86d5ebf303a95ce49bf6ab023fae6953, type: 3}
+  spawnArea: {fileID: 0}
+  aRWorldSpace: {fileID: 0}
+  aRWorldSpaceGame: {fileID: 0}
+  inputX: {fileID: 0}
+  inputY: {fileID: 0}
+  inputZ: {fileID: 0}
+  x: 0
+  y: 0
+  z: 0
+  marieBanner: {fileID: 2723659912857837785, guid: 018e17930fc2bc84a90e019b2c840e8d, type: 3}
+  geigerUI: {fileID: 0}
+  galiX: 0
+  galiY: 0
+  galiZ: 0
+  galiInputX: {fileID: 0}
+  galiInputY: {fileID: 0}
+  galiInputZ: {fileID: 0}
+  galiBanner: {fileID: 1616240454190762586, guid: 0b5ed85e8c0bcf94f9936e2a4f9f80a2, type: 3}
+  galiUI: {fileID: 0}
+--- !u!114 &1089265761267879877
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8305078341444114808}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 229bc5a3fa9789f439f38713db671af5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AppReset
+  arWorldSpace: {fileID: 0}
+--- !u!114 &2786508831496463144
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8305078341444114808}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79cb6aa0df96e534f9ca80db831aa23f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::VersionController
+  gameHandler: {fileID: 3530755176018136451}
+  recognitionHandler: {fileID: 7708967782552723364}
+  tutorialGame: {fileID: 0}
+  tutorialNonGame: {fileID: 0}
+  badges: {fileID: 0}
+  Games: {fileID: 0}
+  nameInput: {fileID: 0}
+  fertigButton: {fileID: 0}

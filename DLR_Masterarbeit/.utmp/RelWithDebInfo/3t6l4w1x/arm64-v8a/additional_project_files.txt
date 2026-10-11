@@ -1,0 +1,17 @@
+/Users/lisabrezel/Desktop/MasterarbeitFinal/masterarbeit-dlr/DLR_Masterarbeit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/GAToUnityCallbacks.h
+/Users/lisabrezel/Desktop/MasterarbeitFinal/masterarbeit-dlr/DLR_Masterarbeit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/MacroEnd.h
+/Users/lisabrezel/Desktop/MasterarbeitFinal/masterarbeit-dlr/DLR_Masterarbeit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/MacroHeaderBegin.h
+/Users/lisabrezel/Desktop/MasterarbeitFinal/masterarbeit-dlr/DLR_Masterarbeit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/MacroSourceBegin.h
+/Users/lisabrezel/Desktop/MasterarbeitFinal/masterarbeit-dlr/DLR_Masterarbeit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGAApplication.h
+/Users/lisabrezel/Desktop/MasterarbeitFinal/masterarbeit-dlr/DLR_Masterarbeit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGAConfiguration.h
+/Users/lisabrezel/Desktop/MasterarbeitFinal/masterarbeit-dlr/DLR_Masterarbeit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGADebug.h
+/Users/lisabrezel/Desktop/MasterarbeitFinal/masterarbeit-dlr/DLR_Masterarbeit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGAEvents.h
+/Users/lisabrezel/Desktop/MasterarbeitFinal/masterarbeit-dlr/DLR_Masterarbeit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGAInput.h
+/Users/lisabrezel/Desktop/MasterarbeitFinal/masterarbeit-dlr/DLR_Masterarbeit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGASoftKeyboard.h
+/Users/lisabrezel/Desktop/MasterarbeitFinal/masterarbeit-dlr/DLR_Masterarbeit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGASoftKeyboardCallbacks.h
+/Users/lisabrezel/Desktop/MasterarbeitFinal/masterarbeit-dlr/DLR_Masterarbeit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGATypes.h
+/Users/lisabrezel/Desktop/MasterarbeitFinal/masterarbeit-dlr/DLR_Masterarbeit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGAVersion.h
+/Users/lisabrezel/Desktop/MasterarbeitFinal/masterarbeit-dlr/DLR_Masterarbeit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UnityToGACallbacks.h
+/Users/lisabrezel/Desktop/MasterarbeitFinal/masterarbeit-dlr/DLR_Masterarbeit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UnityToGAConfigurationCallbacks.h
+/Users/lisabrezel/Desktop/MasterarbeitFinal/masterarbeit-dlr/DLR_Masterarbeit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UnityToGAKeyEventCallbacks.h
+/Users/lisabrezel/Desktop/MasterarbeitFinal/masterarbeit-dlr/DLR_Masterarbeit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UnityToGAMotionEventCallbacks.h
